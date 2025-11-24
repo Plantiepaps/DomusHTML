@@ -21,3 +21,10 @@ e =
     + version PC
     Barre de recherche 
     Navigation
+
+Common :
+        Padding
+        Couleurs
+        Fonts + tailles
+        Header
+        Footer
