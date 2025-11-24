@@ -3,4 +3,51 @@ h1 {
         font-family: "BreeSerif-Regular";
         src: url("BreeSerif-Regular.ttf")
     }
+    font-size: 20;
+    color: #FFFFFF ;
+}
+
+h2 {
+    @font-face {
+        font-family: "Roboto_Flex";
+        src: url("RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf")
+    }
+    font-weight: bold;
+    font-size: 16;
+}
+
+h3 {
+    @font-face {
+        font-family: "Roboto_Flex";
+        src: url("RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf")
+    }
+    font-weight: medium;
+    font-size: 14;
+}
+
+p {
+    @font-face {
+        font-family: "Roboto_Flex";
+        src: url("RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf")
+    }
+    font-weight: regular;
+    font-size: 10;
+}
+
+.linkpng {
+    @font-face {
+        font-family:"Roboto_Flex";
+        src: url("RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf")
+    }
+    font-weight: thin;
+    font-size: 8;
+}
+
+.button{
+    @font-face {
+        font-family:"Roboto_Flex";
+        src: url("RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf")
+    }
+    font-weight: regular;
+    font-size: 14;
 }
